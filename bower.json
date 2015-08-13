@@ -1,0 +1,30 @@
+{
+  "name": "quant",
+  "version": "0.0.0",
+  "authors": [
+    "krazi3 <awwabhaq@gmail.com>"
+  ],
+  "description": "A simple analytics app",
+  "main": "app.js",
+  "dependencies": {
+    "react": "~0.13.3",
+    "marked": "~0.3.3"
+  },
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "quant",
+    "metrics",
+    "analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
